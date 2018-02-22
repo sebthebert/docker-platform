@@ -3,4 +3,4 @@
 #
 FROM python
 
-RUN pip install flask
+RUN pip install flask flask-sqlalchemy flask-wtf
