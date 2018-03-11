@@ -1,5 +1,5 @@
 #
-# docker build --no-cache -t python-flask
+# docker build --no-cache -t python-flask .
 #
 FROM python
 
